@@ -7,7 +7,7 @@ This is a web based application developed to showcase all the medications provid
 
 **Project Link** - https://thankful-forest-0099b7e00.2.azurestaticapps.net/index.html
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/IL932SVFg50
 
 ## Azure technologies used for Project
 
