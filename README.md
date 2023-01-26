@@ -35,6 +35,8 @@ All the services offered by a hospital are well described in this web based appl
 ### health bot
 
 Used Azure Bot Service to improve the interactivity of the web based application.
+<img width="1509" alt="image" src="https://user-images.githubusercontent.com/117895785/214855619-64f4c40e-4b2b-44f6-abb9-beb918a957fa.png">
+
 
 
 
