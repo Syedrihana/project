@@ -26,6 +26,12 @@ This is a web based application developed to showcase all the medications provid
 
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/117895785/205493375-39f55839-0a61-4c26-a698-26d6460ffa05.png">
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/117895785/205493472-2efb2595-1f1c-4108-b5a5-2ee744af9d9d.png">
+<img width="1511" alt="image" src="https://user-images.githubusercontent.com/117895785/214856157-2f58bde2-f252-410e-9961-7ae73a80396a.png">
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/117895785/214856332-97ce9796-a768-450b-84f3-e03c29d8f67b.png">
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/117895785/214856402-29eddc00-0d54-47c7-9523-ad720f977b2c.png">
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/117895785/214856467-71244ff9-dbf9-4bca-aae2-eb2f054cb690.png">
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/117895785/214856619-27d52109-be59-4d70-aa46-40c6b00b22e0.png">
+
 
 
 ### Services -
